@@ -4,7 +4,7 @@
 
 🔬 Microbial Ecologist | 🧬 Molecular Biologist | 💻 Bioinformatics Enthusiast  
 📍 [Spanbauer Lab](https://trishaspanbauer.com)  
-🌐 [Website](https://shantom.netlify.app)
+🌐 [Portfolio](https://shantom.netlify.app)
 
 ---
 
