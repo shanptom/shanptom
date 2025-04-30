@@ -15,7 +15,7 @@ I am a molecular biologist with over eight years of experience in next-generatio
 ## ⚙️ Technical Skills
 
 - **Wet Lab:** qPCR, PCR, NGS (Illumina, ONT, MGI), automation
-- **Bioinformatics:** R, Bash, SLURM, DADA2, phyloseq, topic modeling, LDA, LINDA
+- **Bioinformatics:** R, Bash, SLURM, metabarcoding, Primer Designing, Sequencher, Geneious
 - **Tools & Platforms:** Git, GitHub, Singularity, Nextflow
 
 ---
