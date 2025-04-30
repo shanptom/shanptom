@@ -31,4 +31,4 @@ I am a molecular biologist with over eight years of experience in next-generatio
 
 ---
 
-> “Science is not only a discipline of reason but, also, one of romance and passion.” – Stephen Hawking
+> **"It’s not that I’m so smart, it’s just that I stay with problems longer." – Albert Einstein**
