@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Shan Thomas
+# 👋 Hi, I'm Shan
 
 🔬 Microbial Ecologist | 🧬 Molecular Biologist | 💻 Bioinformatics Enthusiast  
 📍 [Spanbauer Lab](https://trishaspanbauer.com)  
