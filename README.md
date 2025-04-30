@@ -25,9 +25,9 @@ I am a molecular biologist with over eight years of experience in next-generatio
 
 ## 📫 Get in Touch
 
-- 📧 shanptom@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/shan-thomas-719756aa)
-- 📃 [Google Scholar](https://scholar.google.com/citations?user=9EsIZrgAAAAJ&hl=en&authuser=1)
+📧 shanptom@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/shan-thomas-719756aa)
+📃 [Google Scholar](https://scholar.google.com/citations?user=9EsIZrgAAAAJ&hl=en&authuser=1)
 
 ---
 
