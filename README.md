@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Shan
 
-🔬 Microbial Ecologist | 🧬 Molecular Biologist | 💻 Bioinformatics Enthusiast  
+ 🧬 Molecular Biologist | 🔬 Microbial Ecologist |💻 Bioinformatics Enthusiast  
 📍 [Spanbauer Lab](https://trishaspanbauer.com)  
 🌐 [Portfolio](https://shanptom.github.io)
 
@@ -69,6 +69,7 @@ I am a molecular biologist with over eight years of experience in next-generatio
   <a href="mailto:shanptom@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/shanptom" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=9EsIZrgAAAAJ&hl=en" target="_blank"> <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+   <a href="https://orcid.org/0000-0002-2660-887X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
 
