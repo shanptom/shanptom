@@ -80,7 +80,10 @@ I am a molecular biologist with over eight years of experience in next-generatio
    <a href="https://orcid.org/0000-0002-2660-887X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
-
+<!-- Footer Image -->
+<p align="center">
+  <img src="assets/footer.png" alt="Footer Banner"/>
+</p>
               
 
 
