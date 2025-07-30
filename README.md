@@ -10,7 +10,7 @@
 📍 [Spanbauer Lab](https://trishaspanbauer.com)  
 
 I am a molecular biologist with over eight years of experience in next-generation sequencing (NGS)-based molecular detection technologies. My expertise spans molecular diagnostics applications, including Whole Exome Sequencing (WES), Whole Genome Sequencing (WGS), and targeted panels for human genetic disorders. I also have experience in technical sales and providing support for NGS platforms and analysis pipelines. 
-ChatGPT describes me as: 🧬🧫🔬🖥️📊📚💻📦🧠🧘‍♂️🎧✈️☕📝🌍🌿🎯
+
 
 
 ## ⚙️ Skills
