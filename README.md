@@ -54,10 +54,6 @@ I am a molecular biologist with over eight years of experience in next-generatio
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css\&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-0D47A1?style=flat\&logo=javascript\&logoColor=white)
 
-### 🛠 My Fav IDEs
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="40"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/>
 
 ## 👩‍💻 GitHub Stats
 
