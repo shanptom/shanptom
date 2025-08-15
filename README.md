@@ -13,10 +13,10 @@ I am a molecular biologist with over eight years of experience in next-generatio
 
 
 
-## ⚙️ Skills
+## Skills
 
 
-### 🧪 Wet Lab
+### Wet Lab
 
 ![qPCR](https://img.shields.io/badge/qPCR-4CAF50?style=flat\&logo=vercel\&logoColor=white)
 ![PCR](https://img.shields.io/badge/PCR-4CAF50?style=flat\&logo=vercel\&logoColor=white)
@@ -26,7 +26,7 @@ I am a molecular biologist with over eight years of experience in next-generatio
 ![Automation](https://img.shields.io/badge/Automation-607D8B?style=flat\&logo=automation\&logoColor=white)
 
 
-### 💻 Bioinformatics
+### Bioinformatics
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat\&logo=r\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -38,7 +38,7 @@ I am a molecular biologist with over eight years of experience in next-generatio
 ![Geneious](https://img.shields.io/badge/Geneious-2196F3?style=flat\&logo=genius\&logoColor=white)
 
 
-### 🛠 Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
@@ -48,14 +48,14 @@ I am a molecular biologist with over eight years of experience in next-generatio
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
-### 🌐 Web & Visualization
+### Web & Visualization
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css\&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-0D47A1?style=flat\&logo=javascript\&logoColor=white)
 
 
-## 👩‍💻 GitHub Stats
+## GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=shanptom&theme=transparent&hide_border=false)
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shanptom&show_icons=true&theme=merko)</br>
