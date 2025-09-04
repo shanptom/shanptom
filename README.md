@@ -46,6 +46,7 @@ I am a molecular biologist with over eight years of experience in next-generatio
 ![Nextflow](https://img.shields.io/badge/Nextflow-27AE60?style=flat\&logo=nextflow\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-E87722?style=flat\&logo=n8n\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=docker&logoColor=white)
 
 
 ### Web & Visualization
