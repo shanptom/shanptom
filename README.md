@@ -61,7 +61,7 @@ I am a molecular biologist with over eight years of experience in next-generatio
 ![](https://nirzak-streak-stats.vercel.app/?user=shanptom&theme=transparent&hide_border=false)
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shanptom&show_icons=true&theme=merko)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanptom&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![OpenRouter Wrapped 2025](https://wrapped.openrouter.ai/2025/31414e474eafd3ab.png?v=v1)
+![](assets/snake.svg)
 
 
 ## 📫 Get in Touch
