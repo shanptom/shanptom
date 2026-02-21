@@ -56,13 +56,6 @@ I am a molecular biologist with over eight years of experience in next-generatio
 ![JS](https://img.shields.io/badge/JavaScript-0D47A1?style=flat\&logo=javascript\&logoColor=white)
 
 
-## GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=shanptom&theme=transparent&hide_border=false)
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=shanptom&show_icons=true&theme=merko)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanptom&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](assets/snake.svg)
-
 
 ## 📫 Get in Touch
 
