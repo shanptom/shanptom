@@ -30,10 +30,6 @@ My research is on ancient and environmental DNA in freshwater systems.
 
 - [Metabarcoding on HPC](https://spanbauerlab.github.io): the step-by-step I wish I had when I started on SLURM.
 
-### Elsewhere
-
-[Website](https://shanptom.github.io) · [Google Scholar](https://scholar.google.com/citations?user=9EsIZrgAAAAJ) · [ORCID](https://orcid.org/0000-0002-2660-887X) · [LinkedIn](https://linkedin.com/in/shanptom)
-
 
 
 
