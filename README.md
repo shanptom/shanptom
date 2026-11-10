@@ -9,8 +9,6 @@ I write pipelines and small tools for microbial sequencing data, mostly amplicon
 
 ### Working on
 
-## Shan Thomas
-
 I build tools that make microbial sequencing analysis easier to run and easier to teach: Shiny apps, R packages and browser-based R. Mostly R, with Nextflow on SLURM for the heavy lifting.
 
 My research is on ancient and environmental DNA in freshwater systems. 
