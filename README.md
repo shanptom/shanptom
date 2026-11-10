@@ -19,7 +19,6 @@ My research is on ancient and environmental DNA in freshwater systems.
 
 | Repo | What it does |
 |---|---|
-
 | [MicrobeStudio](https://github.com/shanptom/MicrobeStudio) | Shiny app for metabarcoding analysis without writing code. Taxonomy, diversity, indicator taxa. [Try it](https://microbestudio.pipettestopixels.com) |
 | [RLMS](https://github.com/shanptom/RLMS) | BioRLab, an R classroom that runs entirely in the browser with webR. [Try it](https://biorlab.pipettestopixels.com) |
 | [CodeSparkR](https://github.com/shanptom/CodeSparkR) | LLM help inside the R console through OpenRouter. |
